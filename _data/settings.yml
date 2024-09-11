@@ -2,20 +2,20 @@
 #-------------------------------
 # General Site Settings
 
-title: Kross
+title: XD|超体
 logo:
-author: themefisher
-description: this is meta description
-email: steve.fruits@email.com
-phone: +880 2544 658 256
+author: XD
+description: Creator and Seller
+email: tliens.jp@gmail.com
+phone: +86 19999999999
 address: 125/A, CA Commercial Area, California, USA
-copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
+copyright: Copyright &copy; 2024 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
 
 menu:
-  - { name: About, link: "/about" }
-  - { name: Blog, link: "/blog" }
-  - { name: Portfolio, link: "/portfolio" }
-  - { name: Contact, link: "/contact" }
+  - { name: 熊大, link: "/about" }
+  - { name: 博文, link: "/blog" }
+  - { name: 产品, link: "/portfolio" }
+  - { name: 收藏, link: "/contact" }
 
 #-------------------------------
 # Google Analytics Section
